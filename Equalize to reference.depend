@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689690106 source:d:\users\alexa\documents\proiecte\equalize to reference\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
